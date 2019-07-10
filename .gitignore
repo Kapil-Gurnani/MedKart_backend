@@ -1,0 +1,9 @@
+/node_modules
+
+/.vscode
+/.history
+
+/package-lock.json
+
+/test.js
+/test1.js
